@@ -1,28 +1,27 @@
 {
-  "name": "webpack-babel-react-quick-start",
+  "name": "material-design-new-tab",
   "version": "1.0.0",
-  "description": "A quick start application for webpack, babel, and react",
+  "description": "An elegant new tab page for Chrome built with Material Design and React.",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --config webpack.config.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Cubified/webpack-babel-react-quick-start.git"
+    "url": "git+https://github.com/Cubified/MaterialDesignNewTab.git"
   },
   "keywords": [
-    "webpack",
-    "babel",
+    "material",
+    "chrome",
     "react",
-    "quick",
-    "start"
+    "newtab"
   ],
   "author": "Cubfiied",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Cubified/webpack-babel-react-quick-start/issues"
+    "url": "https://github.com/Cubified/MaterialDesignNewTab/issues"
   },
-  "homepage": "https://github.com/Cubified/webpack-babel-react-quick-start#readme",
+  "homepage": "https://github.com/Cubified/MaterialDesignNewTab#readme",
   "devDependencies": {
     "babel": "^6.5.2",
     "babel-core": "^6.14.0",
